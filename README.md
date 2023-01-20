@@ -1,26 +1,36 @@
-### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, This is [Sumanth](https://linktr.ee/sumanth_07) 
-**-------------------------------------------------------------------------------------------------------------------------------**
+# 🏄‍♂️ Sumanth P
 
-<a href="https://www.linkedin.com/in/sumanth-p-09b339173/">
-  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
-</a>
-<a href="https://twitter.com/Sumanth_077">
-  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
-</a>
-<a href="mailto:sumanthp077@gmail.com">
-  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
-</a>
-<a href="https://www.youtube.com/channel/UCGtqGYDxlzfgOnugpOcGxkA">
-  <img align="left" width="26px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
-</a>
-<a href="https://www.instagram.com/__.sumanth.__07/">
-  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
-</a>
+**`Machine Learning Engineer | Developer Advocate | ML Educator and YouTuber`**
 
-<br />
-<br />
+Hi, This is Sumanth. I am a Machine Learning Enginner who likes to Experiment things, Developer Advocate who loves to help developers in getting their job done and a Content Creator on Youtube who has a passion towards Educating People around Data Science and Machine Learning.
 
-**Giving Back to the Community**
+<p align="center">
+  <a href="http://twitter.com/Sumanth_077">
+    <img src="https://img.shields.io/twitter/follow/Sumanth_077?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Sumanth's Twitter"/>
+  </a>
+  <a href="http://youtube.com/SumanthP?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCGtqGYDxlzfgOnugpOcGxkA?style=for-the-badge&logo=youtube&label=Youtube&color=blue" alt="Sumanth's YouTube channel"/>
+  </a>
+</p>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Sumanth077.Sumanth077)
 
+---
+
+
+### Checkout my Latest YouTube videos
+
+<table>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://youtu.be/ksKdCcbPb2s"><img width="140px" src=""></a></td>
+<td><a href="https://youtu.be/ksKdCcbPb2s">How to Build and Scale Successful AI Software Products | Journey of Ramsri Goutham</a> (Dec 27, 2022)<br/></td></tr>
+<tr><td><a href="https://youtu.be/6g2ihKr8Ztk"><img width="140px" src=""></a></td>
+<td><a href="https://youtu.be/6g2ihKr8Ztk">Intro to Data Orchestration with KESTRA | Open Source Data Orchestration Platform</a> (Jan 7th, 2023)<br/></td></tr>
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+</table>
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sumanth077&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
+---
+
+Following are some of my favorite repositories that I have contributed to.
