@@ -20,9 +20,9 @@ Hi, This is Sumanth. I am a Machine Learning Enginner who likes to Experiment th
 ### Checkout my Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://youtu.be/ksKdCcbPb2s"><img width="140px" src=""></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://youtu.be/ksKdCcbPb2s"><img width="140px" src="https://user-images.githubusercontent.com/66694715/213699405-f5afa17f-0705-4095-a783-3da7d4d6ed28.png"></a></td>
 <td><a href="https://youtu.be/ksKdCcbPb2s">How to Build and Scale Successful AI Software Products | Journey of Ramsri Goutham</a> (Dec 27, 2022)<br/></td></tr>
-<tr><td><a href="https://youtu.be/6g2ihKr8Ztk"><img width="140px" src=""></a></td>
+<tr><td><a href="https://youtu.be/6g2ihKr8Ztk"><img width="140px" src="https://user-images.githubusercontent.com/66694715/213699510-2ee2a90c-38f2-47bb-90a8-343de58eded0.png"></a></td>
 <td><a href="https://youtu.be/6g2ihKr8Ztk">Intro to Data Orchestration with KESTRA | Open Source Data Orchestration Platform</a> (Jan 7th, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
