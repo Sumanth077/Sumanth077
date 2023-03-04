@@ -2,7 +2,7 @@
 
 **`Machine Learning Engineer | Developer Advocate | ML Educator and YouTuber`**
 
-Hi, This is Sumanth. I am a Machine Learning Enginner who likes to Experiment things, Developer Advocate who loves to help developers in getting their job done and a Content Creator on Youtube who has a passion towards Educating People around Data Science and Machine Learning.
+Hi, This is Sumanth. I am a Machine Learning Enginner who likes to Experiment things, Developer Advocate who loves to help developers in getting their job done and a Content Creator who has a passion towards Educating People around Data Science and Machine Learning.
 
 <p align="center">
   <a href="http://twitter.com/Sumanth_077">
